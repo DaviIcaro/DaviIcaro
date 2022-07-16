@@ -20,4 +20,4 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div> <br/>
-Sou apaixonado por tecnologia, e por mudar a vida das pessoas através da programação. 👨🏻‍💻📚💕
+                                                                        👨🏻‍💻📚💕
