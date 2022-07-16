@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Davi Ícaro. ❤️ 
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/davi_icaro.py/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-%C3%ADcaro-7550b1239/)
 
 ![Davi Ícaro GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviIcaro&show_icons=true&theme=radical)
