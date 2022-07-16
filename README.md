@@ -1,6 +1,6 @@
-### Olá! Eu sou o Davi Ícaro. ❤️ 
+### Olá! Eu sou o Davi Ícaro. ❤️  
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://https://www.instagram.com/davi_icaro.py](https://instagram.com/davi_icaro.py?igshid=YmMyMTA2M2Y=))
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davi_icaro.py?igshid=YmMyMTA2M2Y=)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-%C3%ADcaro-7550b1239/)
 
 ![Davi Ícaro GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviIcaro&show_icons=true&theme=radical)
@@ -20,4 +20,5 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div> <br/>
-                                                                        👨🏻‍💻📚💕
+
+KeepCoding =) ☕👨🏻‍💻📚💕
