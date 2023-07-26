@@ -7,7 +7,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviIcaro&layout=Compact)](https://github.com/DaviIcaro/github-readme-stats)
 
 
 ## Tecnologias que estou estudando/usando no meu dia a dia
