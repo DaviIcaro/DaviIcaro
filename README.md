@@ -75,7 +75,7 @@ I am software developer and CyberSecurity Student mainly code in Python/Java. Cu
   </tr>
 </table>
 
-## When you can find me
+ ## Where you can find me
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davi_icaro.py?igshid=YmMyMTA2M2Y=)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-%C3%ADcaro-7550b1239/)
 
