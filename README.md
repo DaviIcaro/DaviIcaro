@@ -44,9 +44,9 @@ I am software developer and CyberSecurity Student mainly code in Python/Java. Cu
     </td>
    <td align="center" width="96">
       <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="48" alt="Ubuntu"/>
       </a>
-      <br>Ubuntu
+      <br>Angular
     </td>
    <td align="center" width="96">
       <a>
